@@ -1,0 +1,34 @@
+    id           name  outDegree
+0  367  SpeakerPelosi        210
+1  322      GOPLeader        157
+2  393   RepBobbyRush        111
+3   71     SenSchumer         97
+4  399   SteveScalise         89
+
+    id           name  inDegree
+0  322      GOPLeader       127
+1  208    RepFranklin       121
+2  190  RepJeffDuncan       120
+3  111    RepDonBeyer       109
+4  254    LeaderHoyer       108
+
+    id           name  inDegree
+0  322      GOPLeader       127
+1  208    RepFranklin       121
+2  190  RepJeffDuncan       120
+3  111    RepDonBeyer       109
+4  254    LeaderHoyer       108
+
+   id            name  component
+0   0  SenatorBaldwin          0
+1   4   SenBlumenthal          0
+2  12   SenatorCardin          0
+3  18  SenCortezMasto          0
+4  25   SenatorDurbin          0
+
+    id           name  count
+0  367  SpeakerPelosi   3281
+1  322      GOPLeader   2777
+2  190  RepJeffDuncan   1900
+3  208    RepFranklin   1894
+4  254    LeaderHoyer   1893
